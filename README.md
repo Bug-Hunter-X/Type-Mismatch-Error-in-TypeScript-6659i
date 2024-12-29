@@ -1,0 +1,3 @@
+# Type Mismatch Error in TypeScript
+
+This repository demonstrates a common TypeScript error: type mismatch.  The `add` function is defined to accept two numbers, but the code attempts to pass a string as an argument. TypeScript's type system catches this error during compilation, preventing runtime issues.  The solution demonstrates how to fix the error using type assertion or by changing the function definition to accept a wider range of types.
